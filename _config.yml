@@ -11,9 +11,9 @@ title                    : "Cem Sahin"
 title_separator          : "-"
 name                     : &name "Cem Sahin"
 description              : &description "Game Developer at Simsoft"
-url                      : https://cemsahin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://csahincs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cemsahin.github.io"
+repository               : "csahincs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cem Sahin"
   avatar           : "profile.png"
-  bio              : "Game Developer at Simsoft, determined Global Game Jam attendee."
+  bio              : "Game Developer at Simsoft, professional Global Game Jam attendee."
   location         : "Ankara, Turkey"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
